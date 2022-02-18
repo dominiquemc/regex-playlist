@@ -9,7 +9,7 @@ const patterns = {
     password: /^[\w@-]{8,20}$/
 };
 
-// metacharacter \w - match any letter uppercase or lower case, any digit from 0 to 9 and underscores.
+// metacharacter \w - match any letter uppercase or lower case, any digit from 0 to 9 and underscores
 
 // \w@- match any word character, any @ symbol or hypen.
 
